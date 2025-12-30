@@ -7,7 +7,7 @@ Building secure, scalable systems and transitioning from IT Support → Infrastr
 </div>
 
 ### 💡 About Me
-I’m an IT Support & Junior System Administrator with 2+ years of experience supporting enterprise environments, currently working on large-scale infrastructure operations at Kuwait Oil Company (30,000+ users).
+I’m an IT Support & Junior System Administrator with 2+ years of experience supporting enterprise environments, currently working on large-scale infrastructure operations (30,000+ users).
 
 My background spans networking, Linux systems, security fundamentals, and automation. I’m actively building hands-on projects in Linux, DevOps, and cloud security with the goal of moving into a System / Security / DevOps Engineer role. 
 
