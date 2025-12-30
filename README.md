@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hi there, I'm Junaid Sayyed 👋
-System & Security Engineer | Linux • Networking • DevOps • Automation
+Jr. System Admin | Linux • Networking • DevOps • Automation
 Building secure, scalable systems and transitioning from IT Support → Infrastructure & Security Engineering.
 
 </div>
