@@ -52,6 +52,7 @@ I focus on building small, practical systems and understanding how things break,
 - Automation & systems projects
 - Remote-first technical teams
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67d13d9c81e9e8dd79d323f9?variant=dark&roadmaps=linux%2Cblockchain%2Cproduct-manager%2Cbi-analyst)](https://roadmap.sh)
 
 <!--
 **junaidmohad/junaidmohad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
