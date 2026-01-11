@@ -41,6 +41,7 @@ I focus on building small, practical systems and understanding how things break,
 - CCNA
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ### 📚 Currently Learning
 - Advanced Linux administration
